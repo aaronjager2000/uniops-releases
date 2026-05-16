@@ -1,0 +1,17 @@
+version: 0.1.4
+files:
+  - url: UniOps-0.1.4-arm64-mac.zip
+    sha512: VpHxOU8+/WEWt8dap+J/YxWU0kkCwkJGGnKTgwcMfAktxkyo8Mjtxfkn1opZieA+An9mrI1LrjGpTG7dht1Wmg==
+    size: 99492298
+  - url: UniOps-0.1.4-mac.zip
+    sha512: LRFy2L6BP2GukliLie8H09pOY9lhieQQ7vpxU5yCu8qIepyoOHVoyLX7j6AT86Am2nrrTPxqgbRg/hP8G8MmCA==
+    size: 103979495
+  - url: UniOps-0.1.4-arm64.dmg
+    sha512: GIjGpAzJ/0sZi4vdG03pht8hFqj+XI5HLpECnxXstx/zApDEmok6+/I8+WkjAnjXFaRaLjvYLpCNmy8St30NPg==
+    size: 103246524
+  - url: UniOps-0.1.4.dmg
+    sha512: GUPo6TiQYufPE+Hc8nLAISslO5o5vcFkl8cnmwz6N8YMLrUIL0f286Ss+GnNQFLqfAt+REo4JbGTmg/v7I6jtw==
+    size: 107692215
+path: UniOps-0.1.4-arm64-mac.zip
+sha512: VpHxOU8+/WEWt8dap+J/YxWU0kkCwkJGGnKTgwcMfAktxkyo8Mjtxfkn1opZieA+An9mrI1LrjGpTG7dht1Wmg==
+releaseDate: '2026-05-16T22:51:41.351Z'
