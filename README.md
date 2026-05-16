@@ -4,7 +4,7 @@ Public UniOps desktop download mirror.
 
 ## Latest macOS build
 
-Version: `0.1.4`
+Version: `0.1.5`
 
 Apple Silicon:
 
@@ -16,6 +16,12 @@ Intel Mac:
 
 ```bash
 curl -L -o UniOps-mac-x64.zip https://raw.githubusercontent.com/aaronjager2000/uniops-releases/main/downloads/uniops-mac-x64.zip
+```
+
+Apple Silicon zip:
+
+```bash
+curl -L -o UniOps-mac-arm64.zip https://raw.githubusercontent.com/aaronjager2000/uniops-releases/main/downloads/uniops-mac-arm64.zip
 ```
 
 Checksums:
